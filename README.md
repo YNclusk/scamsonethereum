@@ -1,2 +1,2 @@
 # scamsonethereum
-Datasets of "Understanding anatomy of scams on Ethereum."
+Datasets of "An End to End Analysis of Crypto Scams on Ethereum"
